@@ -1,9 +1,16 @@
 # Hey, I'm Ana Carolina
 
-I'm a Front-end Developer. 
+💻I'm Ana, a 21-year-old amazed by Web/Front-end development😁. 
 
-### Tech/Tools (Know and learning):
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+#### Check out some of my work:
+- 🔗[Responsive Web Design Course - Portfolio Project](https://anacarol2001.github.io/freeCodeCamp/portifolio/);
+
+<hr>
+
+#### Tech/Tools:
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
+<hr>
 
 ### Contact:
 <div>
