@@ -1,6 +1,7 @@
-# Hey, I'm Ana Carolina
+## Hey, I'm Ana Carolina
 
-💻I'm Ana, a 21-year-old amazed by Web/Front-end development😁. 
+- 😁 Front-end dev fascinated by the tech world and trying to understand it a little bit day by day.
+- 💻Nowadays, I'm looking forward to an opportunity for new challenges and learning to improve myself as a front-end professional. 
 
 #### Check out some of my work:
 - 🔗[Responsive Web Design Course - Portfolio Project](https://anacarol2001.github.io/freeCodeCamp/portifolio/);
@@ -16,7 +17,7 @@
 <div>
 <a href="https://www.linkedin.com/in/ana-carolina-d-sanches/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
+<!--
 ##
 <div>
 <a href="https://github.com/seu-usuário-aqui">
