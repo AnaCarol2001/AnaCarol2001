@@ -17,17 +17,16 @@
 <div>
 <a href="https://www.linkedin.com/in/ana-carolina-d-sanches/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<!--
-##
+
+#
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarol2001&layout=compact&langs_count=7&theme=midnight-purple"/>
-<img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api?username=AnaCarol2001&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/AnaCarol2001">
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarol2001&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <!--
 **AnaCarol2001/AnaCarol2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api?username=AnaCarol2001&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 Here are some ideas to get you started:
 
 
