@@ -4,8 +4,9 @@
 - 💻Nowadays, I'm looking forward to an opportunity for new challenges and learning to improve myself as a front-end professional. 
 
 #### Check out some of my work:
+- 🔗[Sunnyside agency landing page | Frontend Mentor Challenge](https://anacarol2001.github.io/SunnysideAgencyLandingPage/#)
 - 🔗[Advice Generator App | Frontend Mentor Challenge](https://anacarol2001.github.io/AdviceGeneratorApp/)
-- 🔗[Responsive Web Design Course - Portfolio Project](https://anacarol2001.github.io/freeCodeCamp/portifolio/);
+- 🔗[Portfolio Project | freeCodeCamp Responsive Web Design Course](https://anacarol2001.github.io/freeCodeCamp/portifolio/)
 
 <hr>
 
