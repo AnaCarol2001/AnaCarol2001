@@ -3,16 +3,11 @@
 - 😁 Front-end dev fascinated by the tech world and trying to understand it a little bit day by day.
 - 💻Nowadays, I'm looking forward to an opportunity for new challenges and learning to improve myself as a front-end professional. 
 
-#### Check out some of my work:
-- 🔗[Todo App | Frontend Mentor Challenge](https://anacarol2001.github.io/ToDoApp/)
-- 🔗[Sunnyside agency landing page | Frontend Mentor Challenge](https://anacarol2001.github.io/SunnysideAgencyLandingPage/#)
-- 🔗[Advice Generator App | Frontend Mentor Challenge](https://anacarol2001.github.io/AdviceGeneratorApp/)
-- 🔗[Portfolio Project | freeCodeCamp Responsive Web Design Course](https://anacarol2001.github.io/freeCodeCamp/portifolio/)
-
 <hr>
 
 #### Tech/Tools:
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+          
 
 
 <hr>
