@@ -1,14 +1,23 @@
-## Hey, I'm Ana Carolina
+## 😁 Hey, I'm Ana Carolina
 
-- 😁 Front-end dev fascinated by the tech world and trying to understand it a little bit day by day.
-- 💻Nowadays, I'm looking forward to an opportunity for new challenges and learning to improve myself as a front-end professional. 
+I'm a Front-end developer focused on building responsive, accessible, and engaging web interfaces. I'm fascinated by the tech world, so I try to learn more about it every day by solving UI/UX challenges and learning new tools and techniques to improve my developer skills.
 
+### 💻 Current Focus:
+- Diving deeper into **React**;
+- Leaning about **Testing** and **NextJS**;
+- Getting a job as **Junior Dev**.
+  
 <hr>
 
-#### Tech/Tools:
-<img width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-          
-
+### 🛠️ Tech Stack
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Tailwindcss](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
+![Styled Components](https://img.shields.io/badge/Styled--Components-db7093?logo=styled-components&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-000000?logo=framer&logoColor=white)
 
 <hr>
 
