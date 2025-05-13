@@ -1,13 +1,14 @@
 ## 😁 Hey, I'm Ana Carolina
 
-I'm a Front-end developer focused on building responsive, accessible, and engaging web interfaces. I'm fascinated by the tech world, so I try to learn more about it every day by solving UI/UX challenges and learning new tools and techniques to improve my developer skills.
+I'm a **Front-end Developer** focused on building **responsive**, **accessible**, and **engaging** web interfaces. 
+I'm fascinated by the tech world, so I try to learn more about it every day by solving UI/UX challenges and learning new tools and techniques to improve my developer skills.
 
-### 💻 Current Focus:
-- Diving deeper into **React**;
-- Leaning about **Testing** and **NextJS**;
-- Getting a job as **Junior Dev**.
-  
-<hr>
+💻 Check out my [**Portfolio**]([#](https://anacarol2001.github.io/Portfolio/))  
+
+### 📚 Current Focus
+- Deepening my knowledge of **React**
+- Learning about **Testing** and **Next.js**
+- Searching for my first opportunity as a **Junior Developer**
 
 ### 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -19,17 +20,20 @@ I'm a Front-end developer focused on building responsive, accessible, and engagi
 ![Styled Components](https://img.shields.io/badge/Styled--Components-db7093?logo=styled-components&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer--Motion-000000?logo=framer&logoColor=white)
 
-<hr>
+---
 
-### Contact:
-<div>
-<a href="https://www.linkedin.com/in/ana-carolina-d-sanches/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+### 📫 Contact Me
 
-#
+<a href="https://www.linkedin.com/in/ana-carolina-d-sanches/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+---
+
+### 📊 GitHub Stats
+
 <div>
-<a href="https://github.com/AnaCarol2001">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarol2001&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarol2001&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <!--
