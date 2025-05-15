@@ -3,7 +3,7 @@
 I'm a **Front-end Developer** focused on building **responsive**, **accessible**, and **engaging** web interfaces. 
 I'm fascinated by the tech world, so I try to learn more about it every day by solving UI/UX challenges and learning new tools and techniques to improve my developer skills.
 
-💻 Check out my [**Portfolio**]([#](https://anacarol2001.github.io/Portfolio/))  
+💻 Check out my [**Portfolio**](https://anacarol2001.github.io/Portfolio/) 
 
 ### 📚 Current Focus
 - Deepening my knowledge of **React**
